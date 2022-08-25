@@ -2,7 +2,7 @@ local webhook_api = {}
 
 local HttpService = game:GetService("HttpService")
 
-local proxy = "https://webhook.lewistehminerz.dev/api/webhooks/"
+local proxy = ""
 local webhook = nil
 local WEBHOOK_ID = nil
 local WEBHOOK_TOKEN = nil
